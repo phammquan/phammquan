@@ -4,7 +4,7 @@
 
 <p1 aligin = "left"  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!++I'm+Minh+Quan+%E2%99%A1)](https://git.io/typing-svg)
-</p>
+</p1>
 💻Tech Stack
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
