@@ -1,4 +1,3 @@
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="500" alt="GIF" src="https://github.com/phammquan/Image/blob/main/Unity-LogotypeIcon_Short_v6_0.gif">
 </a>
