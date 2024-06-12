@@ -6,8 +6,14 @@
 💻Tech Stack
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoSize=auto)
+
+
+
 
 📊GitHub Stats :
   
