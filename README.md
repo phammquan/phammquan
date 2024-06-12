@@ -1,5 +1,5 @@
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="500" alt="GIF" src="https://github.com/phammquan/Image/blob/main/Unity-LogotypeIcon_Short_v6_0.gif">
+  <img align="right" top="500" height="300" width="450" alt="GIF" src="https://github.com/phammquan/Image/blob/main/Unity-LogotypeIcon_Short_v6_0.gif">
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!++I'm+Minh+Quan+%E2%99%A1)](https://git.io/typing-svg)
